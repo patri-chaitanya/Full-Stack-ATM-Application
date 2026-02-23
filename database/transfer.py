@@ -23,7 +23,7 @@ class Transfer:
                     to_account_updated_amount = to_account_amount + transfer_amount
                     setAmountInDB(account_no=to_account, \
                                   amount=to_account_updated_amount, \
-                                    trans_amount=transfer_amount, trtransaction_type="DEPOSITE(Transfer)")
+                                    trans_amount=transfer_amount, transaction_type="DEPOSITE(Transfer)")
                     return f"Tranfer successful and current balance is {from_account_updated_amount}"
                 else:
                     return "Insufficient balance"
