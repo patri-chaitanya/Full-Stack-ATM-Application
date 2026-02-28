@@ -135,7 +135,7 @@ Full-Stack-ATM-Application/
 ### 1️⃣ Clone Repository
 
 ```
-git clone [https://github.com/your-username/Full-Stack-ATM-Application.git](https://github.com/patri-chaitanya/Full-Stack-ATM-Application)
+git clone https://github.com/patri-chaitanya/Full-Stack-ATM-Application.git
 cd Full-Stack-ATM-Application
 ```
 
