@@ -189,8 +189,8 @@ http://127.0.0.1:5000/
 
 # 👨‍💻 Author
 
-**Patri Chaitanya**  
-Aspiring Data Analyst / AI/ML Engineer  
+**Patri Chaitanya Sri Lalitha Sai**  
+Aspiring Data Analyst   
 
 ---
 
